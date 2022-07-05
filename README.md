@@ -27,13 +27,24 @@ Steps to run the code.
 | user_id      | name           |
 |   :---:      |     :---:      | 
 | 1            | ROLE_USER      |
-| git diff     | git diff       | 
+| 2            | ROLE_ADMIN     | 
 
 
 - load into user_entity table:
-- <img src="/user" alt="My cool logo"/>
+
+| user_id      | email          | name           | name           | paswword       | username       |
+|   :---:      |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |
+| 1            |USER1@GMAIL.COM | ROLE_USER      | user           | 12345          | user           |
+| 2            |ADMIN@GMAIL.COM | ROLE_USER      | admin          | 12345          | admin          | 
+
+
 - load into userRole table:
-- <img src="/userRole" alt="My cool logo"/>
+- 
+| user_id      | rol_id         |
+|   :---:      |     :---:      | 
+| 1            | 1              |
+| 2            | | 2            | 
+
 
 
 # Links of interest.
