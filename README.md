@@ -39,11 +39,11 @@ Steps to run the code.
 
 
 - load into userRole table:
-- 
+
 | user_id      | rol_id         |
 |   :---:      |     :---:      | 
 | 1            | 1              |
-| 2            | | 2            | 
+| 2            | 2              | 
 
 
 
