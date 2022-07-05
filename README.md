@@ -52,7 +52,6 @@ Documentacion Postman.
 - */genre*. [Link](https://documenter.getpostman.com/view/20086606/UzJHQcwR).
 - */characters*. [Link](https://documenter.getpostman.com/view/20086606/UzJHQcwQ).
 - */movies*. [Link](https://documenter.getpostman.com/view/20086606/UzJHQd1m).
-- */movies*. [Link](https://documenter.getpostman.com/view/20086606/UzJHQd1m).
 - */auth*. [Link](https://documenter.getpostman.com/view/20086606/UzJHQd6B).
 
 # Aspects pending improvement.
