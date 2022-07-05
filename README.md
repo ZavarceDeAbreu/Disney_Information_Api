@@ -23,7 +23,9 @@ Steps to run the code.
 - create database db_disney_information_api.
 - run spring boot app.
 - load into roles table:
-- <img src="/tableRole" alt="My cool logo"/>
+| user_id | name |
+| ------------ | ------------- |
+| 1 | ROLE_USER|
 - load into user_entity table:
 - <img src="/user" alt="My cool logo"/>
 - load into userRole table:
